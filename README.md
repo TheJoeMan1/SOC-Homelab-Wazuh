@@ -1,7 +1,6 @@
 # SOC-Homelab-Wazuh
 SOC Homelab simulating real-world attacks using Metasploit on a Windows victim, detected in real-time by Wazuh SIEM with custom MITRE ATT&amp;CK-mapped detection rules and automated active response.
 
-
 # SOC Homelab — Wazuh SIEM + Metasploit Attack Simulation
 
 ## Overview
@@ -44,3 +43,6 @@ Wazuh firewall-drop configured to automatically respond to detections.
 
 ## Screenshots
 See /screenshots folder.
+
+linkedin.com/in/thejoeman/
+yossifmohamedabbas50@gmail.com
